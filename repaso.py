@@ -14,3 +14,13 @@ suma = numero1 + numero2
 # Mostrar el resultado
 
 print(f"El resultado de la suma es: {suma}")
+
+# Multiplcar los números  
+
+producto = numero1 * numero2  
+
+ 
+
+# Mostrar el resultado  
+
+print(f"El resultado de la suma es: {suma} y el producto {producto}") 
